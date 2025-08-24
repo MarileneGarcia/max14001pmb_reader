@@ -8,7 +8,7 @@
  * 
  *  This code was written based on the formulas obtained from the
  *  MAX14001PMB circuit analysis, which is available at the link:
- * 
+ *  https://github.com/MarileneGarcia/max14001pmb_reader/blob/main/MAX14001PMB_circuit_analysis.pdf
  *       
  *  MAX14001PMB Reader is free software: you can redistribute it and/or 
  *  modify it under the terms of the GNU General Public License as 
